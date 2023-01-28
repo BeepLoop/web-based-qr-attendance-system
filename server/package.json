@@ -1,8 +1,6 @@
 {
   "name": "qr-attendance",
   "version": "1.0.0",
-  "description": "",
-  "type": "module",
   "main": "server.js",
   "scripts": {
     "test": "nodemon server.js",
@@ -18,5 +16,6 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "description": ""
 }
